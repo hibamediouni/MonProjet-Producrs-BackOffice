@@ -1,0 +1,6 @@
+{
+  "posts": [ {"id" : 1, "code": "P1000", "nom": "Café", "prixUnitaire": 1500.5},
+   {"id" : 2, "code": "P2000", "nom": "the", "prixUnitaire": 1600.6},
+   {"id" : 3, "code": "P3000", "nom": "sucre", "prixUnitaire": 1700.5}
+ ]
+}
